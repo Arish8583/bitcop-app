@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bitcop-app.git/static/css/main.f54d11fd.css",
+    "main.js": "/bitcop-app.git/static/js/main.fc99fc73.js",
+    "index.html": "/bitcop-app.git/index.html",
+    "main.f54d11fd.css.map": "/bitcop-app.git/static/css/main.f54d11fd.css.map",
+    "main.fc99fc73.js.map": "/bitcop-app.git/static/js/main.fc99fc73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f54d11fd.css",
+    "static/js/main.fc99fc73.js"
+  ]
+}
